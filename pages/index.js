@@ -145,13 +145,11 @@ export default function Home() {
 
       <main className="flex-grow flex flex-col items-center justify-center">
         <h1 className="text-4xl font-bold mb-8 text-center">
-          Fullstack Interchain dApp with{" "}
-          <span className="text-blue-500">Axelar 🔥 </span>
+          FROM WEBSITES TO DAPP WITH JAVASCRIPT DEMO 🔥
         </h1>
         <p className=" mb-8 text-center max-w-3xl text-gray-500">
-          An interchain decentralized application using React, Solidity, and
-          Axelar General Message Passing that allows users to send messages
-          between two chains.
+          A multichain decentralized application using javascript and Axelar GMP
+          that allows users to send messages between two chains.
         </p>
 
         <div className="flex justify-center max-w-3xl">
@@ -202,7 +200,7 @@ export default function Home() {
       <ToastContainer />
       <footer className="flex justify-center items-center py-8 border-t border-gray-300">
         <a
-          href="https://github.com/Olanetsoft/fullstack-interchain-dapp"
+          href="https://github.com/Olanetsoft/javascript-on-chain-demo"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center font-bold text-blue-500 text-lg"

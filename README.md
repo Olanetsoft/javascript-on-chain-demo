@@ -1,10 +1,10 @@
-# **Fullstack Interchain dApp**
+# **JavaScript on-chain demo**
 
 This project is a full-stack decentralized application (dApp) built with React/Nextjs, Solidity, and Axelar General Message Passing. It enables users to send messages between two blockchain chains.
 
 ## **Table of Contents**
 
-- [**Features**](https://github.com/Olanetsoft/fullstack-interchain-dapp#features)
+- [**Features**](https://github.com/Olanetsoft/javascript-on-chain-demo#features)
 - [**Installation**](#installation)
 - [**Usage**](#usage)
 - [**Technologies Used**](#technologies-used)
@@ -25,13 +25,13 @@ To install and run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Olanetsoft/fullstack-interchain-dapp.git
+   git clone https://github.com/Olanetsoft/javascript-on-chain-demo.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd fullstack-interchain-dapp
+   cd javascript-on-chain-demo
    ```
 
 3. Install the dependencies:
